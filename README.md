@@ -39,4 +39,4 @@ O projeto foi organizado separando as responsabilidades:
 
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/WescleyHenrique/Calculator.web)
+   git clone (https://github.com/WescleyHenrique/Calculator.web.git)
