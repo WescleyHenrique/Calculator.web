@@ -3,7 +3,8 @@ Calculadora web desenvolvida com HTML, CSS e JavaScript puro. Projeto focado em 
 
 # 🧮 Calculadora Web
 
-<img width="1914" height="937" alt="calculator" src="https://github.com/user-attachments/assets/e95761e8-9c64-45c1-91d6-bd499b1e7b44" />
+<img width="1818" height="844" alt="calculator" src="https://github.com/user-attachments/assets/9909e558-5ef3-4e3d-9da0-4ab051df2921" />
+
 
 
 Uma aplicação web simples e funcional para realizar operações matemáticas básicas, desenvolvida como projeto de estudo para consolidar conhecimentos em tecnologias Front-end.
